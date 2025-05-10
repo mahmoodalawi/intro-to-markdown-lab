@@ -37,7 +37,7 @@ To execute the function, you *call* or *invoke* it by using its name followed by
 `greet('Alice');` // Outputs: Hello, Alice!
 
 
-3. Return values
+3. *Return values*
 
 Functions can process data input and output a value using the return keyword.
 
